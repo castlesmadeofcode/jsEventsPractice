@@ -1,7 +1,6 @@
 let message = document.getElementById("message")
 
 message.addEventListener("keyup", function (event) {
-    console.log(event);
     const text1 = document.getElementById("textbox1")
     const text2 = document.getElementById("textbox2")
 
